@@ -1,0 +1,3 @@
+pandas
+numpy
+auto-py-to-exe

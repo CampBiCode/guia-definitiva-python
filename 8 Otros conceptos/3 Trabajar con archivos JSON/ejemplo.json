@@ -1,0 +1,40 @@
+{
+    "storeName": "Tienda de Ejemplo",
+    "products": [
+      {
+        "id": 1,
+        "name": "Camiseta",
+        "description": "Camiseta de algodón 100%",
+        "price": 19.99,
+        "currency": "USD",
+        "category": "Ropa",
+        "stock": 150,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Blanco", "Negro", "Azul"]
+      },
+      {
+        "id": 2,
+        "name": "Pantalones",
+        "description": "Pantalones vaqueros clásicos",
+        "price": 49.99,
+        "currency": "USD",
+        "category": "Ropa",
+        "stock": 100,
+        "sizes": ["32", "34", "36", "38"],
+        "colors": ["Azul", "Negro"]
+      },
+      {
+        "id": 3,
+        "name": "Zapatos Deportivos",
+        "description": "Zapatos cómodos para correr",
+        "price": 69.99,
+        "currency": "USD",
+        "category": "Calzado",
+        "stock": 75,
+        "sizes": ["40", "41", "42", "43", "44"],
+        "colors": ["Rojo", "Negro", "Blanco"]
+      }
+    ],
+    "lastUpdated": "2024-05-20T12:00:00Z"
+  }
+  
